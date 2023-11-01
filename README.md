@@ -2,14 +2,13 @@
 ## *Cesar Reyes*
 # Digital Product Business Consultant / Full Stack Dev
 > _El Conocimiento es poder y un gran poder conlleva una gran responsabilidad_
-### stack
-- Frontend
-  * ReactJs
+### Stack:
+- Frontend              - Backend
+  * ReactJs               * Laravel
   * HTML
   * CSS
   * JAVASCRIPT
-- Backend
-  * Laravel
+
 - Database
   * mySQL
   * mongoDB
