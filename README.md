@@ -3,11 +3,14 @@
 # Digital Product Business Consultant / Full Stack Dev
 > _El Conocimiento es poder y un gran poder conlleva una gran responsabilidad_
 ### Stack:
-- Frontend              - Backend
-  * ReactJs               * Laravel
+- Frontend
+  * ReactJs
   * HTML
   * CSS
   * JAVASCRIPT
+
+- Backend
+  * Laravel
 
 - Database
   * mySQL
