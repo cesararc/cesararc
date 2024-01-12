@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt
-Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt
-Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt
